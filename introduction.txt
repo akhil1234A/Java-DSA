@@ -1,0 +1,31 @@
+Goal: Learn DSA with Java
+Resource: Kunal Kushwaha
+
+Which platform used: 
+Leetcode
+
+Which type of problem solved?
+Assignments provided
+Devnest problems
+
+what to do when stuck?
+Do not give more than 30 minutes on a problem
+- hints (use chatgpt give hints or hint section)
+- discussion
+- explanation video
+
+why do you stucK?
+
+Lack of Understanding
+	you skip some steps
+	you have holes in your understanding
+Wrong technique or thinking
+	there should be some technique, pattern or idea to solve the problem
+
+How to approach?
+try to learn the underlying concept
+
+Solve Questions topic wise
+Identify the type of questions, common pattern and solutions on each topic 
+wise. 
+Map the problems
